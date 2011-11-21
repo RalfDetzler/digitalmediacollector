@@ -1,3 +1,9 @@
 Digital Media Collector
 =======================
 
+This is the very first version of the program. Currently, only windows is supported because, 
+there are some system calls, that are not compatible with linux or other environments.
+
+To run the program, the exiftool has to be on the os path, so that it can get started by this
+program. Please download it separately.
+
